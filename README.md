@@ -56,3 +56,7 @@ Layouts
 5.2.1. Add a ListView with ID lvWeatherDetails for displaying detailed weather information
 
 End# imadpracticum
+![Screenshot (20)](https://github.com/EzraZRNaid00/imadpracticum/assets/165680709/e3129794-b399-458c-a31f-eaa17f60d9e4) code with unsolved errors
+![Screenshot (21)](https://github.com/EzraZRNaid00/imadpracticum/assets/165680709/982c5065-3afa-402f-93e5-1b6984171a18) display of main activty page
+![Screenshot (19)](https://github.com/EzraZRNaid00/imadpracticum/assets/165680709/76f09c76-95c5-48e1-849b-5a5a161b0f74)  display of selection options for each date
+
