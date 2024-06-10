@@ -25,7 +25,6 @@
         android:id="@+id/weatherdetails"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:backgroundTint="#947070"
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -35,14 +34,11 @@
         app:layout_constraintVertical_bias="0.912" />
 
     <TextView
-        android:id="@+id/averageTempTextView"
-        android:layout_width="205dp"
-        android:layout_height="116dp"
+        android:id="@+id/avgTempTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:textSize="18sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.332" />
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
