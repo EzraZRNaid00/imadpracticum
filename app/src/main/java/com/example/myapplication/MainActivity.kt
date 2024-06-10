@@ -38,6 +38,7 @@ class MainActivity : AppCompatActivity() {
     private fun calculateAverageTemperature(weekWeather: Array<Weather>): Double {
         var totalMinTemp = 0
         var totalMaxTemp = 0
+
         for (weather in weekWeather) {
             data class Weather(
                 val day: String,
